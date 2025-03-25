@@ -23,15 +23,17 @@ Leia isso em outras línguas: [English](https://github.com/reactivando/validatio
 
 Validations BR é um cinto de ferramentas de funções para validar documentos padrões no Brasil e mais.
 
+Este é um **fork** do projeto original [validations-br](https://github.com/reactivando/validations-br).
+
 # Instalação
 
 Com npm:
 ```bash
-npm install validations-br
+npm install @azapfy/utils_validations-br
 ``` 
 Com yarn:
 ```bash
-yarn add validations-br
+yarn add @azapfy/utils_validations-br
 ```
 
 # Como usar

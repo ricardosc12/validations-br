@@ -23,15 +23,17 @@ Read this in other languages: [Portuguese](https://github.com/reactivando/valida
 
 Validations BR is a function tool belt for validating standard documents in Brazil and more.
 
+This is a **fork** of the original project. [validations-br](https://github.com/reactivando/validations-br).
+
 # Installation
 
 With npm:
 ```bash
-npm install validations-br
+npm install @azapfy/utils_validations-br
 ``` 
 With yarn:
 ```bash
-yarn add validations-br
+yarn add @azapfy/utils_validations-br
 ```
 
 # Usage
