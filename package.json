@@ -1,6 +1,6 @@
 {
   "name": "@azapfy/utils_validations-br",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A validator to BR informations - Fork from validations-br",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
